@@ -5,3 +5,4 @@ the following cmd is required
 
 `npm install -g apollo`
 
+`print("hello world")`
